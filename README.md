@@ -20,3 +20,15 @@
    ```bash
    git clone https://github.com/Soumya170921/Quickcart.git
    cd Quickcart
+
+Want to Collab?
+
+Yes, please! Here's how:
+
+✨ Branch out: git checkout -b feature/YourDopeFeature
+
+🥳 Commit those changes: git commit -m "Add your awesome feature"
+
+📤 Push to your branch and open a PR — share your genius.
+
+Made with ❤️ by me, for the web.
